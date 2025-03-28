@@ -1,7 +1,7 @@
 {
   "name": "react-intro",
   "version": "0.1.0",
-  "homepage": "https://github.io/ReactPrac",
+  "homepage": "https://github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
